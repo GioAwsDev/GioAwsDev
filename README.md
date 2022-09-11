@@ -1,10 +1,10 @@
 <h1>Hi, I'm Gio! <br/><a href="https://www.linkedin.com/in/giovannie-encarnacion-b4ab74215/">AWS Cloud Practitioner</a></h1>
 
 
-<h2>👨‍💻 AWS Cloud Projects:</h2>
+<h2>Welcome to my page</h2>
 
-- <b>Cloud Formation - VPC/EC2/S3 Bucket Deployment</b>
-  - [CloudFormation Template Build](https://google.com)
+- <b>Check out my<a href="https://gioawsdev.github.io/">Portfolio Page</a> </b>
+
   
   
   
