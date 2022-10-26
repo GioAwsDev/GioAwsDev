@@ -3,7 +3,7 @@
 
 <h2>Welcome to my page</h2>
 
-- <b>Check out my<a href="https://gioawsdev.github.io/"> Portfolio Page</a> </b>
+- <b>Check out my<a href="https://www.theawsdev.com"> Portfolio Page</a> </b>
 
   
   
