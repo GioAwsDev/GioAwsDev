@@ -1,9 +1,9 @@
-<h1>Hi, I'm Gio! <br/>AWS Cloud Practitioner</h1>
+<h1>Hi, I'm Gio! <br/>AWS Cloud Engineer</h1>
 
 
 <h2>Welcome to my page</h2>
 
-- <b>Check out my<a href="https://www.theawsdev.com"> Portfolio Page</a> </b>
+- <b>Check out my<a href="https://blog.theawsdev.com"> Portfolio Page</a> </b>
 
   
   
@@ -11,7 +11,10 @@
 <h2><b>Certifications:</b></h2>
 <img align="left" alt="GioAwsDev | AWs Cloud Practitioner" width="100px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 
-<img align="left" alt="GioAwsDev | AWs Solutions Architect Associate " width="100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+<img align="left" alt="GioAwsDev | AWs Certified Solutions Architect Associate " width="100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+
+<img align="left" alt="GioAwsDev | AWs Certified SysOps Admin Associate " width="100px" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+
 
 <br> 
 </br>
