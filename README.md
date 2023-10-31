@@ -15,6 +15,8 @@
 
 <img align="left" alt="GioAwsDev | AWs Certified SysOps Admin Associate " width="100px" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
 
+<img align="left" alt="GioAwsDev | AWs Certified Developer Associate " width="100px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+
 
 <br> 
 </br>
