@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gio! <br/>AWS Cloud Engineer</h1>
+<h1>Hi, I'm Gio! <br/>Cybersecurity Junior</h1>
 
 
 <h2>Welcome to my page</h2>
@@ -16,6 +16,8 @@
 <img align="left" alt="GioAwsDev | AWs Certified SysOps Admin Associate " width="100px" src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
 
 <img align="left" alt="GioAwsDev | AWs Certified Developer Associate " width="100px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+
+<img align="left" alt="GioAwsDev | CompTIA Security+ " width="100px" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 
 
 <br> 
