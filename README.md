@@ -9,7 +9,7 @@
   
   
 <h2><b>Certifications:</b></h2>
-<img align="left" alt="GioAwsDev | CompTIA Security+ " width="50px" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
+<img align="left" alt="GioAwsDev | CompTIA Security+ " width="100px" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 
 <img align="left" alt="GioAwsDev | AWs Certified Developer Associate " width="100px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 
