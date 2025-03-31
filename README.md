@@ -12,7 +12,7 @@
 
 <img align="left" alt="GioAwsDev | Red Hat Certified System Administrator " width="100px" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
 
-<img align="left" alt="GioAwsDev | CompTIA Security+ " width="100px" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
+<img align="left" alt="GioAwsDev | CompTIA Security+ " width="100px" src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" />
 
 <img align="left" alt="GioAwsDev | AWs Certified Developer Associate " width="100px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 
