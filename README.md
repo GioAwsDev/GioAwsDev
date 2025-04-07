@@ -11,6 +11,8 @@
 <h2><b>Certifications:</b></h2>
 <a href="https://www.credly.com/users/giovannie-encarnacion">Credly Link</a>
 
+<img align="left" alt="GioAwsDev | AWS Cloud Application Developer Graduate" width="100px" src="https://images.credly.com/images/b709da03-24b0-4777-8393-f76c9131b893/blob"/>
+
 <img align="left" alt="GioAwsDev | Red Hat Certified System Administrator " width="100px" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
 
 <img align="left" alt="GioAwsDev | CompTIA Security+ " width="100px" src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" />
